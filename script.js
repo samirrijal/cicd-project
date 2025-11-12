@@ -11,7 +11,7 @@ const config = {
   color1: "#0F2027",
   color2: "#203A43",
   color3: "#2C5364",
-  color4: "#F8FFAE",
+  color4: "#F8FFAE  ",
   colorIntensity: 1.0,
   softness: 1.0,
 };
