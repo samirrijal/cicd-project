@@ -27,19 +27,12 @@ An IAM user was configured with appropriate roles and permissions to handle Code
 ## 📂 Project Structure
 samirrijal/
 ├── index.html
-|
 ├── styles.css
-|
 ├── script.js
-|
 ├── shaders.js
-|
 ├── package.json
-|
 ├── package-lock.json
-|
 ├── .gitignore
-|
 └── .DS_Store
 
 ## 🚀 Result
